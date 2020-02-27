@@ -3,3 +3,4 @@
 
 TOTP for Google Authenticator
 
+请 移步至:https://gitee.com/reactoa/TOTP
